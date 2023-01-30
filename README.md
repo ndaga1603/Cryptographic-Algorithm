@@ -12,8 +12,8 @@
 - hmac
 - socket
 - json
-- Usage
-
+- 
+## Usage
 * To run the system, start the server with the following command:
 <code>python3 server.py</code>
 * In another terminal, start the client with the following command:
